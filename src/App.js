@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Seat Finder</h1>
+      <h1>SRM_RMP Seat Finder</h1>
       <input
         type="text"
         placeholder="Enter Register Number"
