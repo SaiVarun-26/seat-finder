@@ -12,17 +12,25 @@ export async function findSeatInfo(regNumber, examDate) {
   }
   const date = normalizeDate(examDate);
 
-  // Fetch seatData.json from public folder
-  const response = await fetch("/seatData.json");
-  const seatData = await response.json();
+  try {
+    // Fetch seatData.json from public folder with cache-busting
+    const response = await fetch(`/seatData.json?nocache=${new Date().getTime()}`);
+    if (!response.ok) {
+      throw new Error(`Failed to load seatData.json: ${response.status}`);
+    }
+    const seatData = await response.json();
 
-  console.log("Looking for:", reg, date); // Debugging
+    console.log("Looking for:", reg, date); // Debugging
 
-  const student = seatData[reg]?.[date];
+    const student = seatData[reg]?.[date];
 
-  if (student) {
-    return { success: true, data: student };
-  } else {
-    return { success: false, message: `Register number not found for date: ${date}` };
+    if (student) {
+      return { success: true, data: student };
+    } else {
+      return { success: false, message: `Register number not found for date: ${date}` };
+    }
+  } catch (error) {
+    console.error("Error fetching seat data:", error);
+    return { success: false, message: "Error loading seat data. Please try again later." };
   }
 }
