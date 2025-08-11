@@ -8,10 +8,12 @@
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "postinstall": "chmod +x ./node_modules/.bin/react-scripts || echo 'skip chmod on Windows'"
-  },
+  "start": "react-scripts start",
+  "dev": "react-scripts start",
+  "build": "react-scripts build",
+  "postinstall": "chmod +x ./node_modules/.bin/react-scripts || echo 'skip chmod on Windows'"
+}
+,
   "browserslist": {
     "production": [
       ">0.2%",

@@ -1,252 +1,61 @@
-[
-  {
-    "registrationNumber": "RA2411003020001",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020002",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020003",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020004",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020005",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020006",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020007",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020008",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020009",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020010",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020011",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020012",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020013",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020014",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020015",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020016",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020017",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020018",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020019",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020020",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020021",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020022",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020023",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020024",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020025",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-101"
-  },
-  {
-    "registrationNumber": "RA2411003020026",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020027",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020028",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020029",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020030",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020031",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020032",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020033",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020034",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020035",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020036",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020037",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020038",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020039",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020040",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020041",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020042",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020043",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020044",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020045",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020046",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020047",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020048",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020049",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  },
-  {
-    "registrationNumber": "RA2411003020050",
-    "seatNumber": "N/A",
-    "examLocation": "ADMIN-102"
-  }
-]
+{
+  "RA2411027020124": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020125": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020126": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020127": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020128": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020129": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020130": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020131": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020132": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020133": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020134": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020135": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020136": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020137": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020138": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020139": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020140": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020141": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020142": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020143": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020144": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020145": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020146": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020147": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020148": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020149": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020150": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020151": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020152": { "01-08-2025": { "block": "Admin Block 606" } },
+  "RA2411027020153": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020154": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020155": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020156": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020157": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020158": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020159": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020160": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020161": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020162": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020163": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020164": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020165": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020166": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020167": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020168": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020169": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020170": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020171": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020172": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020173": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020174": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020175": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020176": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020177": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020178": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020179": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020180": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020181": { "01-08-2025": { "block": "BMS Block 404" } },
+  "RA2411027020182": { "01-08-2025": { "block": "BMS Block 404" } }
+}
