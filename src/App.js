@@ -33,7 +33,7 @@ function App() {
         value={examDate}
         onChange={(e) => setExamDate(e.target.value)}
       />
-      <button onClick={handleSearch}>Find Seat</button>
+      <button onClick={handleSearch}>Find Exam-Hall</button>
 
       {result && (
         <div className="result">
